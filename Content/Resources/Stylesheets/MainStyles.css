@@ -145,6 +145,11 @@ div.side-content
 	width: 33.33%;
 }
 
+table
+{
+	border: solid 3px #008000;
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. 
 [@media tablet] declares styles that will apply when the screen is in tablet view

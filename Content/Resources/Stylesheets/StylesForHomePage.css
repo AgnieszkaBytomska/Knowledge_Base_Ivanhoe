@@ -293,6 +293,11 @@ div.home-master-page-footer > div:nth-child(3)
 	margin-left: 0%;
 }
 
+table
+{
+	border: dashed 2px #008000;
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
 [@media tablet] declares styles that will apply when the screen is in tablet view
